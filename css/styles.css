@@ -2,12 +2,13 @@ body{
   background-color: lightgray;
 }
 header {
-    background-image: url(back.jpeg);
+    
+    background-image: url(backg.jpeg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-size: cover;
-    height: 500px;
-    background-position: center;
+    height: 550px;
+    background-position: initial;
     color: white;
     display: flex;
     flex-direction: column;
@@ -15,7 +16,7 @@ header {
     font-size: 38px;
 }
 #head{
-    margin-left:40px;
+    margin-left:50px;
 }
 span{
     font-style: italic;
