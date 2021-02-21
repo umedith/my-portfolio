@@ -50,22 +50,54 @@ a{
     text-decoration: none;
     color:white;
 }
+ .bars{
+   text-align: center;
+ }
 
-#about{
+ #progress{
+   margin-left: 100px;
+ }
+
+progress {
+  border-radius: 7px; 
+  width: 50%;
+  height: 22px;
+  margin-left: 11.5%;
+  box-shadow: 1px 1px 4px rgba( 0, 0, 0, 0.2 );
+ 
+}
+progress::-webkit-progress-bar {
+  background-color: white;
+  border-radius: 7px;
+ 
+}
+progress::-webkit-progress-value {
+  background-color: black;
+  border-radius: 7px;
+ 
+}
+progress::-moz-progress-bar {
+  /* style rules */
+}
+
+#skill{
    
-    width: 100%;
+    width: 72em;
     height: 100%;
     border: 50% #111;
     padding: 50px;
     margin-top: 0%;
+    margin-left: 70px;
+    margin-right: 20px;
     background-color: white;
     background-size: cover;
-    
+    background-image: url(about.jpeg);
+    /* margin:50px 30px 30px 15px;  */
 }
 
 #abou{
     background-image: url(about.jpeg);
-    height: 12.85em;
+    height: 13.90em;
     
 }
 .aboutme{
