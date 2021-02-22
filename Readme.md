@@ -40,4 +40,4 @@ In any case of questions, suggestions or support reach out to me on :
 
 ## License
 
-Copyright &copy 2021 *Edith Umutoniwase*
+Copyright (c) 2021 *Edith Umutoniwase*
