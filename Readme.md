@@ -1,8 +1,8 @@
 # Personal Portfolio
 
-## AUthor 
+## Author 
 
-## by Edith UMUTONIWASE
+### by Edith UMUTONIWASE
 
 ## Description
 
